@@ -15,7 +15,7 @@ In this project, users are prompted to enter a target number of days to let the 
 ## Live Demo
 
 You can view and interact with the full project on Scratch:
-* **Scratch Project Link:** [Magical Garden Fibonacci](https://scratch.mit.edu/projects/1365930131/editor/)
+* **Scratch Project Link:** [magical gadern](https://scratch.mit.edu/projects/1365930131/editor/)
 ---
 ## Skills & Concepts Demonstrated
 
