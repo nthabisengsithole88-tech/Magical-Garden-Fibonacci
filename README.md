@@ -10,7 +10,7 @@ In this project, users are prompted to enter a target number of days to let the 
 ---
 ## Project Screenshot
 
-![magical gadern](Magical%20Garden.png)
+![magical gadern](magical%20gadern.png)
 ---
 ## Live Demo
 
